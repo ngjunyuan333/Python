@@ -1,0 +1,15 @@
+Rentals:
+Car Registration Number: AB5678F
+Customer ID: C266919
+Rental Date: 05 May 2024
+Return Date: 10 May 2024
+Rental Periods (Days): 5
+Total Rental: $300.00
+
+Car Registration Number: AB5678F
+Customer ID: C369953
+Rental Date: 11 May 2024
+Return Date: 12 May 2024
+Rental Periods (Days): 1
+Total Rental: $60.00
+

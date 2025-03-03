@@ -1,0 +1,6 @@
+{'Staff ID': 'S001', 'Staff Name': 'NG JUN YUAN', 'Staff Role': 'Manager', 'Password': 'YUAN4180', 'Register Date': '2024-05-14'}
+{'Staff ID': 'S002', 'Staff Name': 'TAN HU AN', 'Staff Role': 'Customer Service Staff I', 'Password': 'ASDFZXCV', 'Register Date': '2024-05-14'}
+{'Staff ID': 'S003', 'Staff Name': 'Eric TAN', 'Staff Role': 'Customer Service Staff II', 'Password': 'QWER234', 'Register Date': '2024-05-14'}
+{'Staff ID': 'S004', 'Staff Name': 'June NG', 'Staff Role': 'Car Service Staff', 'Password': 'UIOPKJL', 'Register Date': '2024-05-14'}
+{'Staff ID': 'S005', 'Staff Name': 'A', 'Staff Role': 'Customer Service Staff I', 'Password': 'A', 'Register Date': '2024-05-14'}
+{'Staff ID': 'S006', 'Staff Name': 'S', 'Staff Role': 'Customer Service Staff I', 'Password': 'S', 'Register Date': '2024-05-14'}
